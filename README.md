@@ -5,7 +5,7 @@ Project Description:
   Check pictures folder for pictures of finished clock in order to better visualize.
   
 Execution:
-  The code was programmed in C on an Sparkfun Redboard. I used a library for the RTC.
+  The code (in WordClockArduino folder) was programmed in C on an Sparkfun Redboard. I used a library for the RTC.
   Pieces of the clock were laser cut, designed solely in Inkscape.
   Electronics of the clock include the RTC circuit, the Redboard, a series of shift
   registers and their respective LED drivers. The Redboard shifts in the appropriate signal into the
